@@ -1,0 +1,30 @@
+O arquivoEntradaBase é o arquivo de teste que segue junto com o codigo, existe
+uma copia de segurança ( backup ) caso nescessario.
+
+Recomendado modificar define utilizado no codigo para testes, por padrao vem em 64 
+mas nao vao 64 palestras no arquivo de teste. Recomendo modigicar de 64 para 5.
+
+Segue o modelo, porfavor nao ultilize acento isso costuma trazer problemas para 
+algoritimo ( em locais com " // " deve subistituir por algo 
+segundo intruçoes apos " // ", intruçoes que apresentam 
+indentação ex " coorientador " sao opcionais, devendo consta apenas caso 
+haja ( exemplo coorientador como existende adicone a linha com seu nome, o 
+mesmo para coautor em caso de nao existente nao coloque a linha)
+e vem com instrucao apos o " // ".) ( por favor certifique-se de 
+nao ha linha em branco apos o final do ultimo cadastro
+caso exista isso fara com que seja printado novamente o ultimo 
+cadastro e que há uma linha em branco no inicio do arquivo,
+coloque uma palestra imediatamente embaixo da outra ):
+
+// Coloque o tiluto aqui
+Status : // digite -1 para nao avaliado, 0 para negado, 1 para aprovado
+Nota: // -1 para nao dada, nao negativo para nota com valor de até 10 
+( noda decimal deve conter virgula e nao ponto )
+//Coloque aqui o nome do autor
+Existencia de coautor: //Coloque aqui 0 para nao existe, 1 para existe
+	// se 1 na opçao superior digite o nome coautor
+// Coloque aqui o nome do orientador
+Existencia de coorientador: //0 para nao existe, 1 para existe
+	// se 1 opçao superior digite o nome coorientador
+Area do conhecimento: // Coloque aqui o numero da area do conhecimeto
+Codigo: // Coloque aqui o codigo

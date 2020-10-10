@@ -1,0 +1,119 @@
+
+marotando com os marotos
+Status: -1
+Nota: -1
+O marotinho do bairo
+Existencia de coautor: 1
+maroto da rua
+THE MAROTO
+Existencia de coorientador: 1
+NAO EXISTE MAIS MAROTO
+Area do conhecimento: 4
+Codigo: 4
+LULA libre
+Status: -1
+Nota: -1
+postadad
+Existencia de coautor: 0
+lula
+Existencia de coorientador: 0
+Area do conhecimento: 5
+Codigo: 13
+como nazistiza toda a merica
+Status: -1
+Nota: -1
+o repitiliano do trump
+Existencia de coautor: 0
+CIA reptiliana americara nazista
+Existencia de coorientador: 1
+reptilianos do doctor who
+Area do conhecimento: 5
+Codigo: 17
+27 personalizades
+Status: -1
+Nota: -1
+eu, eu mesmo e myselfe
+Existencia de coautor: 1
+min mesmo
+id, e outras coisas q psicologos sabem mas eu nao
+Existencia de coorientador: 0
+Area do conhecimento: 1
+Codigo: 8
+magias
+Status: -1
+Nota: -1,000000
+geraldao
+Existencia de coautor: 0
+alquimia
+Existencia de coorientador: 0
+Area do conhecimento: 3
+Codigo: 25
+Ponte entre sistemas
+Status: -1
+Nota: -1,000000
+potato
+Existencia de coautor: 0
+internet
+Existencia de coorientador: 0
+Area do conhecimento: 3
+Codigo: 19
+Estudo da Saúde Bucal das Comunidades Periféricas da cidade de Feira de Santana
+Status: -1
+Nota: -1,000000
+João da Silva Martins Filho
+Existencia de coautor: 0
+Anésio Bastos
+Existencia de coorientador: 1
+João da Silva Martins
+Area do conhecimento: 1
+Codigo: 0201
+Implementação do primeiros socorros no Hospital X
+Status: -1
+Nota: -1,000000
+Jean Carlos Pimentel
+Existencia de coautor: 1
+Maria Helena Santos
+Estéfane Soares
+Existencia de coorientador: 1
+João da Silva e Silva
+Area do conhecimento: 1
+Codigo: 0101
+Desenvolvendo o pensamento computacional nas escolas
+Status: -1
+Nota: -1,000000
+Paulo Henrique dos Santos
+Existencia de coautor: 0
+José Ângelo Andrade
+Existencia de coorientador: 0
+Area do conhecimento: 2
+Codigo: 0102
+O ensino da língua inglesa na periferia de Feira de Santana
+Status: -1
+Nota: -1,000000
+Maria José de Assis
+Existencia de coautor: 1
+Flávia Assis
+Silvana Machado
+Existencia de coorientador: 0
+Area do conhecimento: 7
+Codigo: 0103
+criando vacas em treiles uma nova fazenda sobre 4 rodas
+Status: -1
+Nota: -1,000000
+moirinha
+Existencia de coautor: 0
+Flávia Assis
+Existencia de coorientador: 0
+Area do conhecimento: 3
+Codigo: 0104
+Formação continuada docente: estudo de caso da Escola Y
+Status: -1
+Nota: -1,000000
+Célia Cristina Pontes
+Existencia de coautor: 1
+Flávia Assis
+Silvana Machado
+Existencia de coorientador: 1
+Maria Alice Machado
+Area do conhecimento: 7
+Codigo: 0203
