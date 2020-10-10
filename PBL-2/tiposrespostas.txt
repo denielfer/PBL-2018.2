@@ -1,0 +1,18 @@
+1
+3
+Sim,Mais ou menos,Não
+2
+5
+Não é verdade,Um pouco verdadeiro,Moderadamente verdadeiro,Muito verdadeiro,Totalmente verdadeiro
+3
+4
+Discordo totalmente,Discordo parcialmente,Concordo parcialmente,Concordo totalmente
+4
+5
+Nunca,Poucas vezes,Razoavelmente,Muitas vezes,Sempre
+5
+5
+Muito Difícil,Difícil,Regular,Fácil,Muito Fácil
+6
+5
+Discordo totalmente,Discordo parcialmente,Neutro,Concordo parcialmente,Concordo totalmente

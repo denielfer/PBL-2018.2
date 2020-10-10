@@ -1,0 +1,30 @@
+﻿Li sobre computadores em livros ou revistas.
+4
+Me comuniquei com família, amigos, colegas, ou professores através de e-mail.
+4
+Escrevi um programa de computador.
+4
+Eu sei o que programadores fazem.
+6
+Eu entendo bastante de computadores.
+6
+Eu acho a profissão de Computação fácil.
+6
+Uso dos comandos de sequência do Turtle.
+5
+Uso da estrutura for.
+5
+Uso da estrutura if-else.
+5
+É difícil prever a nota que o professor dará às minhas tarefas.
+2
+Eu me sinto satisfeito com o que estou aprendendo nesta disciplina.
+2
+Para realizar meus objetivos, é importante que eu vá bem nesta disciplina.
+2
+Você achou que a quantidade de monitores na oficina estava adequada?
+1
+Você gosta dos momentos em que se deixou um tempo para uso livre da ferramenta?
+1
+Você achou que a ferramenta estimulou sua criatividade?
+1
